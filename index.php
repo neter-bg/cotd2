@@ -1,5 +1,5 @@
 <!--
-Author: StefanoPicozzi@gmail.com
+Author: StefanoPicozzi@gmail.com and neter@moyat.net
 Blog: https://StefanoPicozzi.blog
 GitHub: https://github.com/StefanoPicozzi/cotd.git
 Date: 2016
