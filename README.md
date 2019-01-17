@@ -1,4 +1,3 @@
-
 # COTD: Cat of the Day
 
 PHP web application using JQuery Mobile that publishes a list of ordered items. 
